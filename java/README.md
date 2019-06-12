@@ -8,6 +8,6 @@ Run main class Nano.java
 
 Run the command below:
 
-```shell
+```
 curl http://localhost:8080
 ```
