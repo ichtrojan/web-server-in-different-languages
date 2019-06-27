@@ -1,3 +1,5 @@
-.idea
-out
-.iml
+# Intellij
+.idea/
+*.iml
+**/*.iml
+out/
